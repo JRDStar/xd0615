@@ -21,7 +21,7 @@
 	5. 使用git push命令将本地项目更新提交到Github
 	    这一步需要设置SSH Keys，设置步骤参考https://www.jianshu.com/p/c9aa544a11d3  
 	
-	  测试SSH：![](https://ty-photo.oss-cn-shanghai.aliyuncs.com/used/test_SSH.png)
+	  测试SSH：![](README.assets/test_SSH.png)
 	
 4. 本次课程是在Arduino上学习。登录Arduino官网可以下载编辑器到本地或者使用线上编辑器。Arduino代码分两块，一块是
 
@@ -45,7 +45,7 @@
 
     Arduino的参考手册可以从：
 
-    ![](https://ty-photo.oss-cn-shanghai.aliyuncs.com/used/Arduino_help.png)
+    ![](README.assets/Arduino_help.png)
 
     ​	查询。
 
@@ -58,5 +58,5 @@
 
 仿真流水灯：
 
-![](https://ty-photo.oss-cn-shanghai.aliyuncs.com/used/lessons2.png)
+![](README.assets/lessons2.png)
 
