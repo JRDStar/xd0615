@@ -1,4 +1,5 @@
 # xd0615
+
 ## 一、测试SSH
 
 测试成功
@@ -60,3 +61,8 @@
 
 ![](README.assets/lessons2.png)
 
+## 五、lessons3
+
+驱动电机：
+
+![](README.assets/lessons3.png)
