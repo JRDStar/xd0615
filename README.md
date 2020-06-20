@@ -66,3 +66,11 @@
 驱动电机：
 
 ![](README.assets/lessons3.png)
+
+## 六、lessons4
+
+![lessons4](README.assets/lessons4.png)
+
+## 七、lessons5
+
+![lessons5](README.assets/lessons5.gif)
