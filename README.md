@@ -74,3 +74,11 @@
 ## 七、lessons5
 
 ![lessons5](README.assets/lessons5.gif)
+
+## 八、lessons6
+
+![lcd](README.assets/lcd.png)
+
+## 九、lessons8
+
+![code2](README.assets/code2.png)
