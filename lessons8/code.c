@@ -5,7 +5,6 @@
 
   OPEN THE SERIAL MONITOR TO VIEW THE OUTPUT FROM
   THE POTENTIOMETER >>
-
   Attach the center pin of a potentiometer to pin
   A0, and the outside pins to +5V and ground.
 
