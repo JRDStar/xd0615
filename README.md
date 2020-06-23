@@ -79,6 +79,10 @@
 
 ![lcd](README.assets/lcd.png)
 
-## 九、lessons8
+## 九、lessons7
 
 ![code2](README.assets/code2.png)
+
+## lessons8
+
+![lessons8](README.assets/lessons8.png)
